@@ -167,7 +167,19 @@ main section{
         color: #757575;
         font-size: 20px;
         font-weight: 600;
+        margin-bottom: 10px;
+        margin-top: 0px;
     }
 
 
-    
+    .resume-item-title{
+        color: #474747;
+        font-size: 25px;
+        font-weight: 700;
+        margin-bottom: 10px;
+
+    }
+    .download-cb{
+        text-align: center;
+        margin-top: 40px;
+    }
